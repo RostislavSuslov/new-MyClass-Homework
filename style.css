@@ -1,0 +1,13 @@
+.block{
+    padding: 25px;
+    max-width: 400px;
+    font-size: 28px;
+    border: 1px solid #000;
+    margin: 15px;
+}
+.block.red{
+    border: 1px solid #f00;
+}
+p{
+    margin: 0;
+}
